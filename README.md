@@ -1,6 +1,6 @@
 # BulkImageResizer
 
- BulkImageResizer automates image resizing and compression of any number of images in a folder. I developed this script to automatically resize and compress the images for front-end web development.
+ BulkImageResizer automates image resizing and compression of any number of images in a folder. I developed this script to automatically resize and compress the images for responsive web development.
 
 ## Getting Started
 
