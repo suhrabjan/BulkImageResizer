@@ -1,6 +1,33 @@
-# imageResizerForWeb
-Python script to resize and compress photos for web apps at once.
+# BulkImageResizer
 
+ BulkImageResizer automates image resizing and compression of any number of images in a folder. I developed this script to automatically resize and compress the images for front-end web development.
 
-As a first step install the pillow library!!!
-Optimizes and saves the photos in images_src folder to images folder.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+* I have written this script in Python 3.
+* Please install Pillow library with the following code on your terminal.
+        ```
+        $ pip install Pillow
+        ```
+        or
+        ```
+        $ easy_install Pillow
+        ```
+        For more information, please see [https://pypi.org/project/Pillow/2.2.1/](https://pypi.org/project/Pillow/2.2.1/)
+            
+
+### Installation
+
+## Usage
+
+## Version
+
+## Authors
+
+## License
+
+## Acknowledgements
