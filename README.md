@@ -57,7 +57,7 @@ test1.imageResize(800, 600, aspectRatio=False)
 ```
 test1.imageResize(800, 600, subsampling=2, quality=85)
 ```
- If you want to just comress the photo without changing the pixel size then you can use imageCompress() method. By default quality is set to 95. If you would like to decrease the file size then you can lower the quality.
+3.2 If you want to just comress the photo without changing the pixel size then you can use imageCompress() method. By default quality is set to 95. If you would like to decrease the file size then you can lower the quality.
 ```
 test1.imageComress(quality=75)
 ```
