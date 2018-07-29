@@ -13,6 +13,10 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 $ pip install Pillow
 ```
+or
+```
+$ easy install Pillow
+```
        For more information, please see [https://pypi.org/project/Pillow/2.2.1/](https://pypi.org/project/Pillow/2.2.1/)
             
 
