@@ -8,21 +8,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* I have written and tested this script with Python 3. But 
-* Please install Pillow library with the following code on your terminal.
-```
-$ pip install Pillow
-```
-or
-```
-$ easy install Pillow
-```
-For more information, please see [https://pypi.org/project/Pillow/2.2.1/](https://pypi.org/project/Pillow/2.2.1/)
-            
+No prerequisites. BulkImageResizer is compatible with both Python2 and Python3.
 
 ### Installation
-
-
+* Basic installation on your default Python version would be:
+```
+$ pip install BulkImageResizer
+```
+If you want to install on a different Python version than default then:
+* if default is Python2, then to install on Python3:
+```
+$ python3 -m pip install BulkImageResizer
+```
+* if default is Python3, then to install on Python2:
+```
+$ python2 -m pip install BulkImageResizer
+```
 
 ## Usage
 
