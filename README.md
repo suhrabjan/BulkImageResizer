@@ -17,7 +17,7 @@ or
 ```
 $ easy install Pillow
 ```
-       For more information, please see [https://pypi.org/project/Pillow/2.2.1/](https://pypi.org/project/Pillow/2.2.1/)
+For more information, please see [https://pypi.org/project/Pillow/2.2.1/](https://pypi.org/project/Pillow/2.2.1/)
             
 
 ### Installation
