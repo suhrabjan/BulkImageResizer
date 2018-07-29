@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* I have written this script in Python 3.
+* I have written and tested this script with Python 3. But 
 * Please install Pillow library with the following code on your terminal.
 ```
 $ pip install Pillow
@@ -21,6 +21,8 @@ For more information, please see [https://pypi.org/project/Pillow/2.2.1/](https:
             
 
 ### Installation
+
+
 
 ## Usage
 
