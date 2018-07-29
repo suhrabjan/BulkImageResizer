@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 No prerequisites. BulkImageResizer is compatible with both Python2 and Python3.
 
 ### Installation
-* Basic installation on your default Python version would be:
+* Basic installation on your default Python version. Type in following code on your terminal:
 ```
 $ pip install BulkImageResizer
 ```
