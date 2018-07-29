@@ -1,4 +1,3 @@
-
 class Resizer():
 
     from PIL import Image
