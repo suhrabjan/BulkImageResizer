@@ -1,0 +1,8 @@
+README.md
+setup.py
+BulkImageResizer/__init__.py
+BulkImageResizer.egg-info/PKG-INFO
+BulkImageResizer.egg-info/SOURCES.txt
+BulkImageResizer.egg-info/dependency_links.txt
+BulkImageResizer.egg-info/requires.txt
+BulkImageResizer.egg-info/top_level.txt
