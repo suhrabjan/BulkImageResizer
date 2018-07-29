@@ -1,10 +1,10 @@
 # BulkImageResizer
 
- BulkImageResizer automates image resizing and compression of any number of images in a folder. I developed this script to automatically resize and compress the images for responsive web development.
+ BulkImageResizer automates image resizing and compression of any number of images in a folder. I developed this script to automatically resize and compress the images for responsive front end web development.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Followig instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -62,10 +62,23 @@ test1.imageResize(800, 600, subsampling=2, quality=85)
 test1.imageComress(quality=75)
 ```
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
 ## Version
+
+Current Version: 1.0.3. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
+* **Suhrab Kurbanov** - *Initial work*
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 ## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 ## Acknowledgements
+
+Hat tip to anyone whose code was used
