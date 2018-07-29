@@ -64,16 +64,16 @@ test1.imageComress(quality=75)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Version
 
-Current Version: 1.0.3. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+Current Version: 1.0.3. For the versions available, see the [tags on this repository](https://github.com/suhrabjan/BulkImageResizer/tags).
 
 ## Authors
 
-* **Suhrab Kurbanov** - *Initial work*
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+**Suhrab Kurbanov** - *Initial work*
+See also the list of [contributors](https://github.com/suhrabjan/BulkImageResizer/graphs/contributors) who participated in this project.
 
 ## License
 
