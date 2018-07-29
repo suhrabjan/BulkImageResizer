@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='BulkImageResizer',
-    version='1.0.0',
+    version='1.0.2',
     description='Resizes any number of images, written to use in responsive front end web development',
     long_description=open('README.md', 'r').read(),
     install_requires=['Pillow'],

@@ -1,7 +1,8 @@
-class Resizer():
+from PIL import Image
+import os
 
-    from PIL import Image
-    import os
+
+class BulkImageResizer():
 
     def __init__(self, sourceFolderPath, outputFolderPath):
         self.sourceFolderPath = sourceFolderPath

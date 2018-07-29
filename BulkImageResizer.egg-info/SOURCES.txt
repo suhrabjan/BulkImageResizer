@@ -1,5 +1,6 @@
 README.md
 setup.py
+BulkImageResizer/BulkImageResizer.py
 BulkImageResizer/__init__.py
 BulkImageResizer.egg-info/PKG-INFO
 BulkImageResizer.egg-info/SOURCES.txt
