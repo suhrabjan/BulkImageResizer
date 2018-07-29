@@ -10,7 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 * I have written this script in Python 3.
 * Please install Pillow library with the following code on your terminal.
-       
        ```
        $ pip install Pillow
        ```   
