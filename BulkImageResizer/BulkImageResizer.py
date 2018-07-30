@@ -7,9 +7,9 @@ class BulkImageResizer():
     def __init__(self, sourceFolderPath, outputFolderPath):
         self.sourceFolderPath = sourceFolderPath
         self.outputFolderPath = outputFolderPath
-        self.imageFiles = [file for file in os.listdir(sourceFolderPath) if file.endswith(('.jpg', '.jpeg', '.png', '.gif', '.bmp', '.eps', '.j2k', '.j2p', '.jpx', '.icns', '.ico', '.pcx', '.webp', '.tiff', '.tif'))]
+        self.imageFiles = [file for file in os.listdir(sourceFolderPath) if file.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.bmp', '.eps', '.j2k', '.j2p', '.jpx', '.icns', '.ico', '.pcx', '.webp', '.tiff', '.tif'))]
 
-    def imageResize(self, x_dimension, y_dimension, aspectRatio=False, subsampling=0, quality=95):
+    def imageResize(self, x_dimension, y_dimension, aspectRatio=False, subsampling=1, quality=95):
         for file in self.imageFiles:
             img = Image.open(self.sourceFolderPath + file)
             if not aspectRatio:
