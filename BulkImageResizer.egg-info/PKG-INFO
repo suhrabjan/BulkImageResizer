@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: BulkImageResizer
-Version: 1.0.3
+Version: 1.0.4
 Summary: Resizes any number of images, written to use in responsive front end web development
 Home-page: https://github.com/suhrabjan/BulkImageResizer
 Author: Suhrab Kurbanov
@@ -61,7 +61,7 @@ Description: # BulkImageResizer
         test1.imageResize(800, 600, aspectRatio=False)
         ```
          this will resize all the images in the sourceFolder so that no matter what the length of the longer side of the image will equal 800px and the length of the shorter side of the image will be calculated based on the aspect ration of the original image. The resized images will be saved in exportFolder.
-         You can also change the subsampling value and quality of the image. By default subsampling is set to 0 and can be changed up to 2. Quality is set to 95, which is the maximum quality and can be lowered if you would like to compress the image and decrease file size.
+         You can also change the subsampling value and quality of the image. By default subsampling is set to 1 and can be changed from 0 up to 2. Quality is set to 95, which is the maximum quality and can be lowered if you would like to compress the image and decrease file size.
         ```
         test1.imageResize(800, 600, subsampling=2, quality=85)
         ```
