@@ -59,7 +59,7 @@ test1.imageResize(800, 600, subsampling=2, quality=85)
 ```
 3.2 If you want to just comress the photo without changing the pixel size then you can use imageCompress() method. By default quality is set to 95. If you would like to decrease the file size then you can lower the quality.
 ```
-test1.imageComress(quality=75)
+test1.imageCompress(quality=75)
 ```
 
 ## Contributing
@@ -68,7 +68,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Version
 
-Current Version: 1.0.3. For the versions available, see the [tags on this repository](https://github.com/suhrabjan/BulkImageResizer/tags).
+Current Version: 1.0.4. For the versions available, see the [tags on this repository](https://github.com/suhrabjan/BulkImageResizer/tags).
 
 ## Authors
 
