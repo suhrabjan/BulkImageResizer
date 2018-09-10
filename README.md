@@ -55,7 +55,6 @@ test1.imageResize(800, 600, aspectRatio=False)
  this will resize all the images in the sourceFolder so that no matter what the length of the longer side of the image will equal 800px and the length of the shorter side of the image will be calculated based on the aspect ration of the original image. The resized images will be saved in exportFolder.
  You can also change the subsampling value and quality of the image. By default subsampling is set to 1 and can be changed from 0 up to 2. Quality is set to 95, which is the maximum quality and can be lowered if you would like to compress the image and decrease file size.
 ```
-<!-- suhrab kurbanov -->
 test1.imageResize(800, 600, subsampling=2, quality=85)
 ```
 3.2 If you want to just comress the photo without changing the pixel size then you can use imageCompress() method. By default quality is set to 95. If you would like to decrease the file size then you can lower the quality.
