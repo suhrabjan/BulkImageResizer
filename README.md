@@ -62,7 +62,7 @@ test1.imageResize(800, 600, subsampling=2, quality=85)
 test1.imageCompress(quality=75)
 ```
 
-## Contributing
+\## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
